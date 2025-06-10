@@ -89,19 +89,20 @@ class _ProfilePageState extends State<ProfilePage> {
                   children: [
                     Row(
                       children: [
-                        if (data['image_profile'] == '')
-                          Image.asset(
-                            'assets/images/default_profile.png',
-                            width: 50,
-                          ),
-                        ClipOval(
-                          child: Image.file(
-                            File(data['image_profile']),
-                            width: 50,
-                            height: 50,
-                            fit: BoxFit.cover,
-                          ),
-                        ),
+                        (data['image_profile'] == null ||
+                                data['image_profile'].toString().isEmpty)
+                            ? Image.asset(
+                              'assets/images/default_profile.png',
+                              width: 50,
+                            )
+                            : ClipOval(
+                              child: Image.file(
+                                File(data['image_profile']),
+                                width: 50,
+                                height: 50,
+                                fit: BoxFit.cover,
+                              ),
+                            ),
                         SizedBox(width: 15),
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
