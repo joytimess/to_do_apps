@@ -21,3 +21,6 @@ NIM : 2390343023
   CRUD ToDoApps pada umumnya.
 
 - SCREENSHOTS [Screenshots Pertama](assets/screenshots/image_1.jpeg)
+- SCREENSHOTS [Screenshots Kedua](assets/screenshots/image_2.jpeg)
+- SCREENSHOTS [Screenshots Ketiga](assets/screenshots/image_3.jpeg)
+- SCREENSHOTS [Screenshots Keempat](assets/screenshots/image_4.jpeg)
