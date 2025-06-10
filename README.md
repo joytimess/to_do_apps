@@ -1,8 +1,10 @@
 # project_to_do_apps
 
-A new Flutter project.
+Nama : Bambang Wijaya
+Kelas : RJ23A
+NIM : 2390343023
 
-## Getting Started
+## DESKRIPSI
 
 This project is a starting point for a Flutter application.
 
