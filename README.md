@@ -8,15 +8,16 @@ NIM : 2390343023
 
 ## DESKRIPSI
 
-This project is a starting point for a Flutter application.
+- Judul Proyek : Priority
 
-A few resources to get you started if this is your first Flutter project:
+- Fungsionalitas utamanya pada fungsi CRUD (Create Read Update Delete) dengan memggunakan bahasa pemrograman Flutter dan framework UI Dart.
+  CRUD nya itu sendiri terhubung dengan database Firebase.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Firebase. Fitur-fitur firebase yang digunakan adalah Authentication dan Firestore Database.
+  Databasenya sendiri dirancang seperti relasi antar tabel supaya manajemen CRUD nya lebih efektif.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# decentralized-app" 
-"# to_do_apps" 
+- Menjalankan aplikasinya pengguna harus melewati halaman login terlebih dahulu. Jika pengguna belum memiliki akun
+  pengguna dapat mendaftar akun pada halaman registrasi. Seusai mengisi form untuk login, pengguna dapat melakukan
+  CRUD ToDoApps pada umumnya.
+
+- 
