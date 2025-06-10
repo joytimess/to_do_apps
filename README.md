@@ -20,4 +20,4 @@ NIM : 2390343023
   pengguna dapat mendaftar akun pada halaman registrasi. Seusai mengisi form untuk login, pengguna dapat melakukan
   CRUD ToDoApps pada umumnya.
 
-- SCREENSHOTS [Screenshots Pertama](assets/screenshots/image_1.jpg)
+- SCREENSHOTS [Screenshots Pertama](assets/screenshots/image_1.jpeg)
