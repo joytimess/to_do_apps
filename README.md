@@ -8,7 +8,7 @@ NIM : 2390343023
 
 ## DESKRIPSI
 
-- Judul Proyek : Priority
+- Judul Proyek : Priory
 
 - Fungsionalitas utamanya pada fungsi CRUD (Create Read Update Delete) dengan memggunakan bahasa pemrograman Flutter dan framework UI Dart.
   CRUD nya itu sendiri terhubung dengan database Firebase.
